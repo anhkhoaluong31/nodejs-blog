@@ -1,6 +1,6 @@
 Credit Card Type
 Credit Card Number
-American Express
+American Expresstet
 378282246310005
 American Express
 371449635398431
